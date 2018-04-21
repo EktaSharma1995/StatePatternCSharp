@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePatternLab", "StatePatternLab\StatePatternLab.csproj", "{219637E3-608D-402D-A22A-674F605815AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{219637E3-608D-402D-A22A-674F605815AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219637E3-608D-402D-A22A-674F605815AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219637E3-608D-402D-A22A-674F605815AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219637E3-608D-402D-A22A-674F605815AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C796AD55-48DA-4CCC-A975-22A05282C22D}
+	EndGlobalSection
+EndGlobal
